@@ -1,0 +1,1 @@
+swipl.exe -t "[test_la8_2],  run_tests"
